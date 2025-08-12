@@ -1,1 +1,15 @@
+streamlit>=1.20
+torch>=1.12
+torchvision>=0.13
+transformers>=4.30
+pillow
+numpy
+opencv-python
+fastapi
+uvicorn
+python-dotenv
+requests
+folium
+aiohttp
+pandas
 
